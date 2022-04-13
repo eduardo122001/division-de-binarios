@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1649816176 source:d:\c++\division de binarios\main.cpp
+	<iostream>
+	<bitset>
+
